@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    
+}
+
+ #fruList{
+    display: flex;
+  
+}
+#vegList{
+    display: flex;
+   
+}
+fruiList,img{
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+li{
+    text-align: justify;
+}
